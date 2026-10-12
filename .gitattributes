@@ -1,0 +1,6 @@
+*.zip binary
+*.apk binary
+*.jar binary
+*.a binary
+*.dylib binary
+zsign binary
